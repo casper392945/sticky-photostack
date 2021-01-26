@@ -1,1 +1,1 @@
-# sticky-photostack
+# Sticky Photostack
